@@ -1,0 +1,2 @@
+c:\Users\chick\OneDrive\documents\visual studio 2015\Projects\QuizApp\src\QuizApp\wwwroot\file.js
+c:\Users\chick\OneDrive\documents\visual studio 2015\Projects\QuizApp\src\QuizApp\wwwroot\file.js.map
